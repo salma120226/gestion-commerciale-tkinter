@@ -3,7 +3,7 @@ from pages.dashboard import Dashboard
 from pages.produits import Produits
 from pages.clients import Clients
 from pages.commandes import Commandes
-from pages.rapports import Rapports
+from pages.rapport import Rapports    
 
 class NovaCommerce:
 

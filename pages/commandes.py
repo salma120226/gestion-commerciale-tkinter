@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from database import fetch_data, execute_query, run_procedure
-from pages.ui import (
+from pages.Ui import (
     BG, DARK, GREY, GREEN, PURPLE, RED,
     page_header, card, card_title, action_button, form_field, form_combo,
     make_table, fill_table, selected_values, fmt_money

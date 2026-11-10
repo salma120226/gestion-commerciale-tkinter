@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from database import run_procedure
-from pages.ui import (
+from pages.Ui import (
     BG, DARK, GREY, PURPLE, GREEN, ORANGE, BLUE,
     page_header, card, card_title, action_button,
     make_table, fill_dict_table
