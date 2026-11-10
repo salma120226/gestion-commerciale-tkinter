@@ -278,6 +278,7 @@ class Dashboard(tk.Frame):
                 )
             )
 
+    # ================= STOCK ALERTS =================
 
     def load_stock_alerts(self):
 
